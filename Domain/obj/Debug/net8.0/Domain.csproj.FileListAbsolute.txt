@@ -1,0 +1,12 @@
+C:\Users\danil\KPO-miniHW-2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\danil\KPO-miniHW-2\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\danil\KPO-miniHW-2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\danil\KPO-miniHW-2\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
